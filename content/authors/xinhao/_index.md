@@ -29,11 +29,17 @@ interests:
   - Knowledge Editing for LLMs
 
 # Education to show in About widget
-# education:
-#   courses:
-#     - course: PhD in Computer Science
-#       institution: Sun Yat-sen University
-#       year: 2018
+education:
+  courses:
+    - course: PhD Student, Computing Science
+      institution: University of Glasgow, Glasgow, UK
+      year: 10/2023 -
+    - course: Master Student, Software Development
+      institution: University of Glasgow, Glasgow, UK
+      year: 09/2021 - 09/2022
+    - course: Bachelor Degree, Mechanical Design, Manufacturing and Automation
+      institution: Huazhong University of Science and Technology, Hubei, China
+      year: 09/2016 - 06/2020
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -79,3 +85,4 @@ highlight_name: true
 <!-- I obtained my Ph.D in computer science from Sun Yat-sen University (SYSU) in December 2018. -->
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
+I'm currently pursuing my PhD in Computing Science at the University of Glasgow, UK, following a Master's in Software Development. I completed my undergraduate studies at Huazhong University of Science and Technology in China. My research interest lies in the exploration of knowledge editing techniques within Large Language Models (LLMs), focusing on innovative methods such as locate-then-edit, memory-based knowledge retrieval, Meta Learning, and In-context Learning. I am particularly interested in applying these knowledge-editing strategies to the biomedical domain, aiming to address challenges in editing long-tail biomedical knowledge, domain-specific information, and sequential knowledge editing processes.

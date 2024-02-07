@@ -74,3 +74,4 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+Zhaohan obtained his B.S. degree in Computing Science from the University of Glasgow (UoG) in 2023. He has been working as a Research Assistant at AI4BioMedicine since July 2022. His research interests lie in multi-modal encoding, large language models (LLMs) , and natural language processing within biomedical sciences, focusing particularly on the integration of contrastive learning with multi-modal LLMs for biomedical applications. He can be contacted at z.meng.3@research.gla.ac.uk.

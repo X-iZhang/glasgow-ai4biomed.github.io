@@ -79,3 +79,4 @@ highlight_name: true
 <!-- I obtained my Ph.D in computer science from Sun Yat-sen University (SYSU) in December 2018. -->
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
+Xi received his B.E. degree in Software Engineering from the Dalian University of Technology (DUT) in 2018, while complemented by exchange programs at Stanford University and Ritsumeikan University. He achieved a dual Master‘s degree from the University of Sydney (USYD) in 2022, including Information Technology (Data Management and Analytics) and IT Management. His research interests include multi-modal generation, natural language processing and computer vision. His current primary research focus is on Generative Multi-modal Biomedical Natural Language Modeling. Contact him at x.zhang.6@research.gla.ac.uk.
