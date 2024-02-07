@@ -13,7 +13,7 @@ sections:
         align: center
         background:
           image:
-            filename: coders.jpg
+            filename: AI4BioMedicine_2023_Xmax.jpg
             filters:
               brightness: 0.7
           position: right
