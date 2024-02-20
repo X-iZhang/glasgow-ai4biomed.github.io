@@ -75,7 +75,7 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
+Gan Wang received a master's degree from the school of computer science and technology, China University of Petroleum (East China) and is currently a PhD student at the university of glasgow starting in October 2023. My research focus mainly lies in machine/deep learning, NLP and their applications in both biomedical and bioinformatics fields. More specifically, I am working on biomedical document-level entity linking based on NLP and deep learning approaches.
 <!-- I obtained my Ph.D in computer science from Sun Yat-sen University (SYSU) in December 2018. -->
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
