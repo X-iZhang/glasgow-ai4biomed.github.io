@@ -76,7 +76,7 @@ email: ''
 highlight_name: true
 ---
 
-
+Jinyuan Fang is a PhD student at the University of Glasgow supervised by [Zaiqiao Meng](https://mengzaiqiao.github.io/) and [Craig Macdonald](https://www.dcs.gla.ac.uk/~craigm/). His research interests include information retrieval, knowledge graph and retrieval-augmented methods.
 <!-- I obtained my Ph.D in computer science from Sun Yat-sen University (SYSU) in December 2018. -->
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
