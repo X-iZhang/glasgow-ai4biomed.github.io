@@ -18,31 +18,6 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
-        align: left
-        background:
-          image:
-            filename: contact.jpg
-            filters:
-              brightness: 0.7
-          position: center
-          color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
-        align: right
-        background:
-          image:
-            filename: welcome.jpg
-            filters:
-              brightness: 0.5
-          position: center
-          color: '#333'
-        link:
-          icon: graduation-cap
-          icon_pack: fas
-          text: Join Us
-          url: ../contact/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
@@ -51,4 +26,14 @@ sections:
       loop: false
       # Duration of transition between slides (in ms)
       interval: 2000
+  - block: hero8
+    content:
+      image:
+        filename: robot_biology_pixelart.png
+      text: |
+        We work on natural language processing, knowledge graphs, language models and more to extract and infer biomedical knowledge.
+        <br /><br />
+        The group is led by <a href="/author/zaiqiao-meng/">Dr Zaiqiao Meng</a> and <a href="/author/jake-lever/">Dr Jake Lever</a> in the <a href="https://www.gla.ac.uk/schools/computing/">School of Computing Science</a> at the University of Glasgow.
+        <br /><br />
+        Take a look at our various projects or find out how to come work with us!
 ---
