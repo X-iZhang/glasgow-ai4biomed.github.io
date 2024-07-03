@@ -29,11 +29,11 @@ interests:
   - Biomedical text mining and machine learning
 
 # Education to show in About widget
-# education:
-#   courses:
-#     - course: PhD in Computer Science
-#       institution: Sun Yat-sen University
-#       year: 2018
+education:
+  courses:
+    - course: PhD in Bioinformatics
+      institution: University of British Columbia
+      year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
