@@ -16,6 +16,9 @@ main:
   - name: Publications
     url: publications
     weight: 50
+  - name: Work with Us
+    url: work_with_us
+    weight: 60
   # - name: Resources
   #   url: resource
   #   weight: 60
