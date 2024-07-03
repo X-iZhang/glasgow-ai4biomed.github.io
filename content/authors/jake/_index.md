@@ -27,6 +27,8 @@ bio:
 interests:
   - AI for BioMedicine
   - Biomedical text mining and machine learning
+  - Information extraction
+  - Large language models
 
 # Education to show in About widget
 education:
@@ -72,6 +74,8 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Hi, I’m Jake Lever, a lecturer in the School of Computing Science at the University of Glasgow. My research focuses on biomedical text mining and machine learning. I’m particularly interested in extracting biomedical knowledge from text (e.g. research papers) to make it easier for scientists to find the information they need.
+Hi, I’m a lecturer in the School of Computing Science at the University of Glasgow. My research focuses on biomedical text mining and machine learning. I’m particularly interested in extracting biomedical knowledge from text (e.g. research papers) to make it easier for scientists to find the information they need.
 
-This personal web page provides links to my teaching and research efforts. I’ve also written a few columns on statistics that are linked in the writing page.
+My background includes postdoctoral research in the [Helix Group at Stanford University](https://helix.stanford.edu/) and a PhD at [Canada's Michael Smith Genome Sciences Centre](https://www.bcgsc.ca/) and the University of British Columbia in Vancouver, Canada.
+
+Currently, I am co-leading the [Glasgow AI4BioMed Lab](https://ai4biomed.org/) with a focus on high-quality extraction of genetics knowledge from the research literature and careful application of NLP and LLMs to patient records.
