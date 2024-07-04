@@ -5,20 +5,20 @@
 
 main:
   - name: About
-    url: about
+    url: /
     weight: 10
-  - name: News
-    url: news
-    weight: 20
   - name: People
     url: people
     weight: 30
   - name: Projects
-    url: project
+    url: projects
     weight: 40
   - name: Publications
-    url: publication
+    url: publications
     weight: 50
+  - name: Work with Us
+    url: work_with_us
+    weight: 60
   # - name: Resources
   #   url: resource
   #   weight: 60

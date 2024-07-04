@@ -1,66 +1,39 @@
 ---
-# Leave the homepage title empty to use the site title
-title:
+title: 
 date: 2022-10-24
+
 type: landing
 
 sections:
-  - block: hero
+  - block: slider
     content:
-      title: |
-        Glasgow AI for BioMedicine Lab
+      slides:
+      - title: 👋 Welcome to the AI4BioMed Lab
+        content: Take a look at what we're working on...
+        align: center
+        background:
+          image:
+            filename: AI4BioMedicine_2023_Xmax.jpg
+            filters:
+              brightness: 0.7
+          position: right
+          color: '#666'
+    design:
+      # Slide height is automatic unless you force a specific height (e.g. '400px')
+      slide_height: ''
+      is_fullscreen: true
+      # Automatically transition through slides?
+      loop: false
+      # Duration of transition between slides (in ms)
+      interval: 2000
+  - block: hero8
+    content:
       image:
-        filename: welcome.jpg
+        filename: robot_biology_pixelart.png
       text: |
-        <br>
-        
-        Decoding the Language of Life: Bridging AI and Biomedicine to Unravel the Complexities of Health and Disease Through Advanced ML, GNN, NLP and Knowledge Graphs.
-  
-  - block: collection
-    content:
-      title: Latest News
-      subtitle:
-      text:
-      count: 5
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: post
-    design:
-      view: card
-      columns: '1'
-  
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: coders.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
-  
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
-    design:
-      columns: '1'
+        We work on natural language processing, knowledge graphs, language models and more to extract and infer biomedical knowledge.
+        <br /><br />
+        The group is led by <a href="/author/zaiqiao-meng/">Dr Zaiqiao Meng</a> and <a href="/author/jake-lever/">Dr Jake Lever</a> in the <a href="https://www.gla.ac.uk/schools/computing/">School of Computing Science</a> at the University of Glasgow.
+        <br /><br />
+        Take a look at our various projects or find out how to come work with us!
 ---
