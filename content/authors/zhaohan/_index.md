@@ -53,13 +53,13 @@ social:
     link: https://scholar.google.com/citations?user=gM9yaCkAAAAJ&hl=en
   # - icon: github
   #   icon_pack: fab
-  #   link: https://github.com/mengzaiqiao
+  #   link: https://github.com/ZhaohanM
   # - icon: linkedin
   #   icon_pack: fab
   #   link: https://www.linkedin.com/in/meng/
   # - icon: orcid
   #   icon_pack: fab
-  #   link: https://orcid.org/0000-0001-5374-0318
+  #   link: https://orcid.org/0009-0003-3209-7134
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
