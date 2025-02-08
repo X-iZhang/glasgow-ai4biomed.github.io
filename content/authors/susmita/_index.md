@@ -56,15 +56,15 @@ social:
   #   label: Follow me on Twitter
   #   display:
   #     header: true
-  #- icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-  #  icon_pack: fas
-  #  link: https://scholar.google.com/citations?user=39a2s0EAAAAJ&hl=en
+  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+   icon_pack: fas
+   link: https://scholar.google.co.uk/citations?user=_P2f8dkAAAAJ&hl=sv
   # - icon: github
   #   icon_pack: fab
   #   link: https://github.com/mengzaiqiao
-  # - icon: linkedin
-  #   icon_pack: fab
-  #   link: https://www.linkedin.com/in/meng/
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/susmita-das-a33369140
   # - icon: orcid
   #   icon_pack: fab
   #   link: https://orcid.org/0000-0001-5374-0318
