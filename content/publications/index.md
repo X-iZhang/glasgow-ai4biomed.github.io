@@ -22,7 +22,7 @@ sections:
 
         <i class="far fa-file-alt pub-icon" aria-hidden="true"></i> E. Frayling, **Jake Lever**, G. McDonald (2024). [UoG Siephers at “Discharge Me!”: Exploring Ways to Generate Synthetic Patient Notes From Multi-Part Electronic Health Records](https://aclanthology.org/2024.bionlp-1.62/). In Proceedings of the 23rd Workshop on Biomedical Natural Language Processing, pp. 712–718. Accessed: Aug. 20, 2024.
 
-        <i class="far fa-file-alt pub-icon" aria-hidden="true"></i> Xi Zhang, **Zaiqiao Meng**, **Jake Lever**, Edmond S.L. Ho (2024). [Gla-AI4BioMed at RRG24: Visual Instruction-tuned Adaptation for Radiology Report Generation](https://academic.oup.com/bib/article/25/5/bbae380/7735275). BioNLP@ACL 2024.
+        <i class="far fa-file-alt pub-icon" aria-hidden="true"></i> **Xi Zhang**, **Zaiqiao Meng**, **Jake Lever**, Edmond S.L. Ho (2024). [Gla-AI4BioMed at RRG24: Visual Instruction-tuned Adaptation for Radiology Report Generation](https://aclanthology.org/2024.bionlp-1.54/). *Proceedings of the 23rd Workshop on Biomedical Natural Language Processing, ACL 2024*.
 
         <i class="far fa-file-alt pub-icon" aria-hidden="true"></i> Giacomo Frisoni, Alessio Cocchieri, Alex Presepi, Gianluca Moro, **Zaiqiao Meng** (2024). [To generate or to retrieve? on the effectiveness of artificial contexts for medical open-domain question answering](https://arxiv.org/abs/2403.01924). ACL 2024.
 
