@@ -57,8 +57,8 @@ social:
   #   display:
   #     header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-   icon_pack: fas
-   link: https://scholar.google.co.uk/citations?user=_P2f8dkAAAAJ&hl=sv
+    icon_pack: fas
+    link: https://scholar.google.co.uk/citations?user=_P2f8dkAAAAJ&hl=sv
   # - icon: github
   #   icon_pack: fab
   #   link: https://github.com/mengzaiqiao
